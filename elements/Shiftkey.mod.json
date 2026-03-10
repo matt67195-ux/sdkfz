@@ -1,0 +1,15 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "SPACE",
+    "keyBindingName": "Shiftkey",
+    "keyBindingCategoryKey": "vehicles",
+    "onKeyPressed": {
+      "name": "Shiftonpressed"
+    },
+    "onKeyReleased": {
+      "name": "Shiftonreleased"
+    }
+  }
+}

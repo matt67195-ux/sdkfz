@@ -1,0 +1,7 @@
+{
+  "_fv": 73,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"call_procedure\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"0\"></mutation><field name=\"procedure\">VehicleShift</field><comment pinned=\"false\" h=\"34\" w=\"180\">Runs the car shifter script</comment><next><block type=\"call_procedure\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"0\"></mutation><field name=\"procedure\">FuelOilConsumption</field><comment pinned=\"false\" h=\"33\" w=\"162\">runs the car fuel script</comment><next><block type=\"call_procedure\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"0\"></mutation><field name=\"procedure\">VehicleFallAndStop</field><comment pinned=\"false\" h=\"35\" w=\"204\">runs the car fall and stop script.</comment></block></next></block></next></block></next></block><block type=\"call_procedure\" x=\"7\" y=\"227\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"0\"></mutation><field name=\"procedure\">Healthsystem</field><comment pinned=\"false\" h=\"35\" w=\"204\">runs the car fall and stop script.</comment></block></xml>"
+  }
+}

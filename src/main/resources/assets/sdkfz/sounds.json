@@ -1,0 +1,10 @@
+{
+  "engine": {
+    "sounds": [
+      {
+        "name": "sdkfz:engine",
+        "stream": false
+      }
+    ]
+  }
+}
