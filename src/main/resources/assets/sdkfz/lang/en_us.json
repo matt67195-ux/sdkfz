@@ -1,0 +1,10 @@
+{
+  "key.categories.vehicles": "Vehicles",
+  "key.sdkfz.shiftkey": "Shiftkey",
+  "item.sdkfz.kettenkradspawnitem": "Kettenkrad spawn item",
+  "entity.sdkfz.sdkfz_2": "Sdkfz 2",
+  "gui.sdkfz.fuel_overlay.label_fuel": "Fuel",
+  "item.sdkfz.oil_bucket": "Oil Bucket",
+  "item.sdkfz.sdkfz_2_spawn_egg": "Sdkfz 2 Spawn Egg",
+  "subtitles.engine": ""
+}
